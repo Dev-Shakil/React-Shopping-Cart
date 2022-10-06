@@ -1,8 +1,6 @@
-import {createContext} from "react"
+
 import './App.css';
-import Cart from './components/Cart/Cart';
-import Context, { CartContext } from "./components/Context";
-import {Product} from "./components/Product"
+import Context from "./components/Context";
 
 function App() {
   return (
