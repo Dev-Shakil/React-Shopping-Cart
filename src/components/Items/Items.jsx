@@ -9,7 +9,7 @@ const Items = ({item}) => {
         
              <div className="cart-items-info">
                         <div className="cart-img">
-                            <img src={js} alt="product image" className="image" />
+                            <img src={js} alt="js" className="image" />
                         </div>
                         <div className="cart-title">
                             <h2>{item.title}</h2>
