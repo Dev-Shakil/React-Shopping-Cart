@@ -1,5 +1,5 @@
-import { AddIcCallOutlined, Delete, ShoppingCartOutlined, SignalCellularConnectedNoInternet0BarTwoTone } from '@material-ui/icons';
-import {useState, useContext} from 'react'
+import {ShoppingCartOutlined,} from '@material-ui/icons';
+import { useContext} from 'react'
 import logo from "../../images/react.png";
 import "../Cart/cart.css";
 import {CartContext} from "../Context"
