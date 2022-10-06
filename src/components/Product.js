@@ -1,7 +1,4 @@
-import js from "../images/js.png";
-import react from "../images/react.png";
-import mui from "../images/material.png";
-import heroku from "../images/heroku.png";
+
 import html from "../images/html5.png";
 
 
